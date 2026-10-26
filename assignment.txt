@@ -1,0 +1,17 @@
+[12:07, 10/23/2026] +234 703 605 6514: 
+Six assignment CRUD practice examples
+No.	Original assignment title	Original due date	  Update the title to	              New due date	  New status
+1	  HTML and CSS Basics	      2026-10-25	        Responsive Website Design	        2026-10-27	    Submitted
+2	  Python Variables	        2026-10-26	        Python Data Types	                2026-10-28	    Submitted
+3	  Python Functions	        2026-10-28	        Functions and Return Statements	  2026-10-30	    Pending
+4	  Introduction to Flask	    2026-10-29	        Building Flask Routes	            2026-11-01	    Submitted
+5	  Database Fundamentals	    2026-10-30	        SQLite CRUD Operations	          2026-11-02	    Pending
+6	Jinja Templates	2           026-11-01	        Dynamic HTML with Jinja	            2026-11-04	    Submitted
+
+Instructions for your students
+1. Create: Add all six original assignments using their original titles and due dates. Their initial status should be Pending.
+2. Read: Confirm that all six assignments appear on the assignments page.
+3. Update: Click Edit Assignment for each record. Change its title, due date, and status to the corresponding updated values in the table.
+4. Verify: Return to the assignments page and confirm that each assignment displays its new details.
+5. Delete: Choose any one assignment, delete it, and confirm that it disappears from the list.
+6. Test persistence: Restart the Flask application and check that the remaining assignments are still available.
